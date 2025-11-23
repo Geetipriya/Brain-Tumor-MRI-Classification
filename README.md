@@ -33,22 +33,23 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 
 1. **Clone this repository:**
     ```
-    git clone [Your GitHub Repo Link]
+    git clone https://github.com/Geetipriya/Brain-Tumor-MRI-Classification.git
     cd Brain-Tumor-MRI-Classification
     ```
 
-3. **Train or Load Models:**
+2. **Train or Load Models:**
     - Run `train_models.py` to train models from scratch, or download pre-trained weights:
 
-    > **Custom CNN model weights:** [Model Download Link from Google Drive]
+    > **Custom CNN model weights:** https://drive.google.com/file/d/195OWHqzIUVMs4VK8BdGC_sUIIBgrcIoM/view?usp=drivesdk
+    > **ResNet50 model weights:** https://drive.google.com/file/d/1o2HNEGDwcwawu4YZ2aV97Zg1NZzKz7lK/view?usp=drivesdk
 
-4. **Evaluate Models:**
+3. **Evaluate Models:**
     ```
     python evaluate_and_compare.py
     ```
     - Generates performance metrics and confusion matrices
 
-5. **Run Streamlit Web App:**
+4. **Run Streamlit Web App:**
     ```
     streamlit run app.py
     ```
@@ -60,26 +61,16 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 - **Custom CNN:** Test Accuracy = 90.24%
 - **ResNet50:** Test Accuracy = 67.07%
 - Visualizations included: confusion matrices, accuracy/loss graphs
-- Streamlit app demo:  
-    ![App Screenshot](images/streamlit_app_demo.png)
+- Streamlit app demo:
+
 
 ## Dataset
 
-- Used a public dataset ([add Kaggle or dataset URL/source]) with labeled MRI brain scans.
-
-## Model Weights
-
-- Trained `.h5` model file is too large for GitHub direct upload.
-- Download from Google Drive: [Your Google Drive Link]
-
-## Project Report
-
-- Full report available in `Project_Report.pdf` or `docs/`
+- Used a public dataset: https://drive.google.com/drive/folders/1C9ww4JnZ2sh22I-hbt45OR16o4ljGxju
 
 ## Author
 
-- [Your Name]
-- [Contact details, optional]
+- Geetipriya Naik
 
 ## License
 
