@@ -22,8 +22,6 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 
 ├── app.py
 
-├── /images (charts, screenshots)
-
 ├── Brain_Tumor_Model_Comparison.xlsx
 
 ├── README.md
@@ -63,7 +61,7 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 
 Confusion matrix for Custom CNN model:
 
-![Confusion matrix for Train](images/Figure_1.png)
+![Confusion matrix for Train](Figure_1.png)
 ![Confusion matrix for Test](Figure2.png)
 ![Confusion matrix for Valid](Figure_3.png)
 
