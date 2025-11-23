@@ -14,8 +14,6 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 ## Directory Structure
 /Brain-Tumor-MRI-Classification/
 
-│
-
 ├── train_models.py
 
 ├── predict_and_save.py
@@ -61,6 +59,13 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 - **Custom CNN:** Test Accuracy = 90.24%
 - **ResNet50:** Test Accuracy = 67.07%
 - Visualizations included: confusion matrices, accuracy/loss graphs
+Confusion matrix for Custom CNN model:
+
+![Confusion matrix]
+
+Confusion matrix for ResNet50 model:
+
+![Confusion matrix]
 - Streamlit app demo:
 
 
