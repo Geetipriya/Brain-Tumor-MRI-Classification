@@ -73,8 +73,11 @@ Confusion matrix for ResNet50 model:
 
 - Streamlit app demo:
 
-![Streamlit App Screenshot]
-(Screenshot 2025-11-23 005436.png)
+Screenshot:
+
+![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png)
+
+
 
 ## Dataset
 
@@ -83,10 +86,6 @@ Confusion matrix for ResNet50 model:
 ## Author
 
 - Geetipriya Naik
-
-## License
-
-MIT License
 
 ## Acknowledgments
 
