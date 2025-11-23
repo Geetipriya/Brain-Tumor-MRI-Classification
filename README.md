@@ -61,12 +61,17 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 - Visualizations included: confusion matrices, accuracy/loss graphs
 Confusion matrix for Custom CNN model:
 
-![Confusion matrix](Figure_1.png,Figure2.png,Figure_3.png)
+![Confusion matrix for Train](Figure_1.png)
+![Confusion matrix for Test](Figure2.png)
+![Confusion matrix for Valid](Figure_3.png)
 
 Confusion matrix for ResNet50 model:
 
 ![Confusion matrix](Figure_4.png,Figure_5.png,Figure_6.png)
 - Streamlit app demo:
+
+![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png
+
 
 
 
