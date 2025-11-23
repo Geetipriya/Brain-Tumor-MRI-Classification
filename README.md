@@ -73,7 +73,6 @@ Confusion matrix for ResNet50 model:
 - Streamlit app demo:
 
 ![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png)
-![Streamlit App Screenshot](Screenshot 2025-11-23 005533.png)
 
 ## Dataset
 
