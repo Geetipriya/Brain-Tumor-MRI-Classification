@@ -71,11 +71,7 @@ Confusion matrix for ResNet50 model:
 ![Confusion matrix for Test](Figure_5.png)
 ![Confusion matrix for Valid](Figure_6.png)
 
-- Streamlit app demo:
-
-Screenshot:
-
-![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png)
+- Streamlit web app: you can see it on your browser at 'https://localhost:8501'
 
 
 
