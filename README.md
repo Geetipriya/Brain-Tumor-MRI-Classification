@@ -61,7 +61,7 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 - Visualizations included: confusion matrices, accuracy/loss graphs
 Confusion matrix for Custom CNN model:
 
-![Confusion matrix](figure_1.png,figure2.png,figure_3.png)
+![Confusion matrix](Code/figure_1.png,figure2.png,figure_3.png)
 
 Confusion matrix for ResNet50 model:
 
