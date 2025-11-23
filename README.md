@@ -39,6 +39,7 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
     - Run `train_models.py` to train models from scratch, or download pre-trained weights:
 
     > **Custom CNN model weights:** https://drive.google.com/file/d/195OWHqzIUVMs4VK8BdGC_sUIIBgrcIoM/view?usp=drivesdk
+
     > **ResNet50 model weights:** https://drive.google.com/file/d/1o2HNEGDwcwawu4YZ2aV97Zg1NZzKz7lK/view?usp=drivesdk
 
 3. **Evaluate Models:**
@@ -59,6 +60,7 @@ This project uses deep learning (custom CNN and ResNet50 transfer learning) for 
 - **Custom CNN:** Test Accuracy = 90.24%
 - **ResNet50:** Test Accuracy = 67.07%
 - Visualizations included: confusion matrices, accuracy/loss graphs
+
 Confusion matrix for Custom CNN model:
 
 ![Confusion matrix for Train](Figure_1.png)
@@ -70,6 +72,7 @@ Confusion matrix for ResNet50 model:
 ![Confusion matrix for Train](Figure_4.png)
 ![Confusion matrix for Test](Figure_5.png)
 ![Confusion matrix for Valid](Figure_6.png)
+
 - Streamlit app demo:
 
 ![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png)
