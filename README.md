@@ -67,13 +67,12 @@ Confusion matrix for Custom CNN model:
 
 Confusion matrix for ResNet50 model:
 
-![Confusion matrix](Figure_4.png,Figure_5.png,Figure_6.png)
+![Confusion matrix for Train](Figure_4.png)
+![Confusion matrix for Test](Figure_5.png)
+![Confusion matrix for Valid](Figure_6.png)
 - Streamlit app demo:
 
-![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png
-
-
-
+![Streamlit App Screenshot](Screenshot 2025-11-23 005436.png)(Screenshot 2025-11-23 005533.png)
 
 ## Dataset
 
