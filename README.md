@@ -1,4 +1,4 @@
-# Brain Tumor MRI Image Classification
+# Brain Tumour MRI Image Classification
 
 This project uses deep learning (custom CNN and ResNet50 transfer learning) for multi-class classification of brain MRI images (glioma, meningioma, pituitary, no tumor). It includes complete code for training, evaluation, comparison, and deployment with a Streamlit web app.
 
